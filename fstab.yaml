@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://drive.google.com/drive/folders/1cowrQ7BmtRvNZe2ncbZZytqYDFZ0FC1X?ths=true"
+    url: "https://author-p127526-e1367718.adobeaemcloud.com/bin/franklin.delivery/dmasta29/aem-editor-getting-started/main"
     type: "markup"
     suffix: ".html"
